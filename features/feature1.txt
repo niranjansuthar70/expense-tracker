@@ -1,0 +1,6 @@
+- I want to build a simple UI for my expense tracker app (which I will build later)
+- connect supabase
+- add single page which is login
+- allowed selected users only to login (user which are already present in supabase admin user table)
+- only login no signup button
+- once login, just say welcome landing page
